@@ -9,7 +9,7 @@ import datetime
 
 # Configurações da página com tema aprimorado
 st.set_page_config(
-    page_title="🍦 Gelato Mágico - Previsão de Vendas",
+    page_title="🍦 Gelato Mágico Gilson Silva- Previsão de Vendas",
     page_icon="🍦",
     layout="wide",
     initial_sidebar_state="expanded",
