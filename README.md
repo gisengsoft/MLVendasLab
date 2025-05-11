@@ -1,4 +1,4 @@
-# 🍦 Gelato Mágico - Sistema de Previsão de Vendas
+# 🍦 Gelato Mágico Gilson Silva - Sistema de Previsão de Vendas
 
 ![Banner](outputs/resultados_modelo.png)
 
@@ -124,4 +124,4 @@ Este projeto está licenciado sob a MIT License.
 
 ---
 
-Desenvolvido com ❤️ por Gelato Mágico
+Desenvolvido com ❤️ por Gilson Silva - Gelato Mágico
