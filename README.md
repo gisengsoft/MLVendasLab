@@ -4,7 +4,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto desenvolve um modelo de machine learning para prever vendas de sorvete com base na temperatura do dia. Utilizando dados históricos da sorveteria "Gelato Mágico", o modelo ajuda a otimizar a produção diária, reduzindo desperdícios e maximizando lucros.
+Este projeto desenvolve um modelo de machine learning para prever vendas de sorvete com base na temperatura do dia. Utilizando dados históricos da sorveteria "Gelato Mágico Gilson Silva", o modelo ajuda a otimizar a produção diária, reduzindo desperdícios e maximizando lucros.
 
 ## 🎯 Objetivo
 
