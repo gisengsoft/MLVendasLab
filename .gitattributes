@@ -1,1 +1,39 @@
+# Configuração padrão: auto-detecção de arquivos de texto
 * text=auto
+
+# Arquivos binários (não devem ter normalização de quebras de linha)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.joblib binary
+*.pickle binary
+*.pkl binary
+*.pth binary
+*.pdf binary
+*.zip binary
+*.whl binary
+*.mp4 binary
+
+# Arquivos específicos de Python
+*.py text diff=python
+*.ipynb text
+requirements.txt text
+*.md text
+*.csv text eol=crlf
+
+# Arquivos de configuração
+*.yml text
+*.yaml text
+*.json text
+*.toml text
+*.ini text
+
+# Arquivos de scripts
+*.bat text eol=crlf
+*.sh text eol=lf
+
+# Arquivos de documentação
+LICENSE text
+README* text
